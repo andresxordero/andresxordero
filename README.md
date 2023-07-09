@@ -1,6 +1,7 @@
 # Hello partner! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Andrés's GitHub Banner](./assets/readme_header.png)]()
+
+<img src="./assets/readme_header.png"/>
 
 ## 🦾 I'm a Systems and Software Engineer!
 
