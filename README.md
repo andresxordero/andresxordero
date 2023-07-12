@@ -5,7 +5,7 @@
 
 ## 🦾 I'm a Systems and Software Engineer!
 
-My name is Andrés Cordero and I'm a software developer/enginer from Mexico.
+My name is Andrés Cordero and I'm a software developer/engineer from Mexico.
 
 - 🌱 I’m a constant learner, not only I learn about software, but about life.
 - 🎁 I love getting into new projects and creating
